@@ -19,10 +19,10 @@ class Resume extends Component {
                  />
             </div>
 
-            <h2 style={{paddingTop: '2em'}}>Paul Hanna</h2>
+            <h2 style={{paddingTop: '2em'}}>Shiyamaladevi</h2>
             <h4 style={{color: 'grey'}}>Programmer</h4>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+            <p> Hi this is shyam ,simple text to validate</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
             <h5>Address</h5>
             <p>1 Hacker Way Menlo Park, 94025</p>
@@ -42,14 +42,14 @@ class Resume extends Component {
               startYear={2002}
               endYear={2006}
               schoolName="My University"
-              schoolDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+              schoolDescription="Some dummy stuff Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
                />
 
                <Education
                  startYear={2007}
                  endYear={2009}
                  schoolName="My 2nd University"
-                 schoolDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+                 schoolDescription="Some dummy stuff Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
                   />
                 <hr style={{borderTop: '3px solid #e22947'}} />
 
@@ -59,14 +59,14 @@ class Resume extends Component {
               startYear={2009}
               endYear={2012}
               jobName="First Job"
-              jobDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+              jobDescription="Full stack developer"
               />
 
               <Experience
                 startYear={2012}
                 endYear={2016}
                 jobName="Second Job"
-                jobDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+                jobDescription="Full stack develop"
                 />
               <hr style={{borderTop: '3px solid #e22947'}} />
               <h2>Skills</h2>
